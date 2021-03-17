@@ -1,0 +1,177 @@
+.paage-top{
+  background-image: url(../img/regist-slaid.jpg);}
+
+.about-quote,.quote{
+  padding: 30px 0;
+}
+.quote-title{
+margin: 20px 0;
+}
+.quote-pragraph,.p-bar{
+  
+  margin: 20px 0;
+}
+.quote-title h4{
+font-size: 35px;
+  font-weight: 700;
+  line-height: 150%;
+}
+.quote-pragraph p{
+  font-size: 1.1rem;
+  font-weight: 500;
+  
+}
+.pro-style{
+padding: 5px 10px;
+  border: 1px solid #A7ABB7;
+  border-radius: 15px;
+  background-color: #f1f0f0;
+  
+}
+.progress{
+  background-color: #fff;
+  color: #17A2B8;
+  
+}
+.mail,.phon{
+  
+  padding: 20px 15px;
+}
+
+.creat-new{
+margin:0 0 10px 0;
+  padding:0 0 10px;
+}
+.creat-new a{
+  text-decoration: none;
+  font-size: .9rem;
+  font-weight: 500;
+  color: #000;
+  opacity: .8;
+}
+
+.creat-new a:hover{
+font-weight: 500;
+  opacity: 1;
+  text-decoration: underline;
+}
+.welcom{
+display: none;
+  margin: 0;
+  padding: 0;
+
+}
+.say-hai{
+padding: 30px 0 20px ;
+  border-bottom: 1px solid #555;
+}
+.say-hai p{
+font-size: .9rem;
+  font-weight: 500;
+
+}
+
+.ouer-protact{
+padding: 0;
+  border-bottom: 1px solid #777;
+
+}
+
+.box-chack{
+  padding: 30px 0;
+  
+}
+
+.box-chack p{
+  font-weight: 700;
+  
+}
+.form-check-label{
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+  margin: 50px 0px;
+}
+table,th,td{
+border: 1px solid #555;
+
+}
+th,tr{
+  text-align: center;
+  padding: 10px 0;
+  font-weight: 500;
+}
+tr{color: #555;}
+.silver {
+  
+  background-color:#f1f0f0; 
+}
+th {
+  width: 25%;
+  font-weight: 700}
+
+    .ouer-protact{
+      display: none;
+      
+  }
+#adding{
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem; 
+  font-weight: 500;
+  
+}
+
+.order-add{
+padding: 50px 0;
+}
+.tex-order{
+  padding: 30px 5px;
+  border: 1px solid #777;
+  
+}
+.tex-order p{
+
+  text-align: center;
+  font-size: 1.1rem; 
+  font-weight: 500;
+}
+
+.order-form{
+    padding: 20px ;
+  border: 1px solid #777;
+  border-radius: 10px;
+  background-color: #f1f0f0;
+}
+.mnh {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.out-order{
+  padding: 5px 0 50px;
+}
+.out-orderHead{
+  
+      padding: 5px ;
+  border: 1px solid #777;
+ 
+  background-color: #f1f0f0;
+}
+.out-orderHead p{
+margin-bottom: 0;
+}

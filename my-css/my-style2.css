@@ -1,0 +1,182 @@
+body{
+background-image: url(../img/Home-page-background-2.jpeg);
+  background-attachment: fixed;
+}
+
+.background {
+  background-color: #fff;
+}
+
+.head-father{
+  position: relative;
+  
+}
+
+.myVideo{
+  width: 100%;
+  height: auto;
+  margin-bottom: -6px;
+}
+.over-lay{
+  position: absolute;
+  top: 0;
+  left: 0;
+min-height: 100%;
+  max-height: 100%;
+  width: 100%;
+align-content: center;
+  margin: 0;
+
+}
+.caption h2{  
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "Arial",Arial;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 1.5em;
+  
+  }
+.sirves-boxA{
+   margin-top: 50px;
+  padding-top: 50px;
+  align-content: flex-end;
+    align-items: flex-end;
+
+}
+.sirves-image{
+   
+  position: relative;
+}
+.absulot-btn1{
+  
+    position: absolute;
+    left: 16.3%;
+    transform: translate(0,-21.6%);
+    top: 7%;}
+}
+.absulot-btn2{
+    position: absolute;
+    left: 10.3%;
+    transform: translate(0,-21.6%);
+    top: 21.6%;}
+.absulot-btn3{
+    position: absolute;
+    left: 59.8%;
+    transform: translate(0,-36.5%);
+    top: 36.5%;
+}
+@media only screen and (max-width: 990px){
+  .my-card {
+    margin: 0;
+    padding-left: 10px;
+  }
+  .hcaption{
+    font-size: 28px;
+    margin-top:10px
+  }
+  .caption h2{
+    font-size: 18px
+  }
+}
+
+.scond-part{
+  background-color: #26377D;
+  
+  padding: 50px 0;
+}
+.scond-part h3{
+  color: #fff;
+  line-height: 150%;
+  font-size: 38px;
+  font-weight: 600;
+}
+.titl{
+  padding: 0;
+}
+.titl a {
+  
+    font-size: 30px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.my-article{
+  padding: 50px 0;
+  
+}
+.meni-title h5{
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 150%;
+  
+}
+.transpar-article,.transpar-article a,.transpar-article h3{
+   
+color:#FFF;
+  
+}
+.transpar-article{
+   background-color: rgba(29, 31, 160,0.3 );
+
+  
+}
+.larg-title h3{
+  font-weight: 700;
+  line-height: 150%
+}
+.my-article p{
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: justify;
+}
+.col-left{
+padding: 50px 50px 50px 0;
+
+}
+
+.col-left h3,.col-right h3{
+  font-size: 33px;
+}
+.col-left a{
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 300%;
+}
+.col-right{
+  padding: 100px 50px 100px 0;
+  
+}
+.my-pragraph {
+  padding:  0 0 30px;
+  border-bottom: 1px solid #A7ABB7;
+  text-align: justify;
+  
+}
+.my-pragraph{
+  text-align: justify;
+  padding:  0 0 20px;
+}
+.left-btn{
+  margin: 20px 0;
+}
+.left-title{
+  padding: 0 0 50px;
+  border-bottom: 1px solid #A7ABB7;
+  
+}
+
+.righ-meniHeader{
+  margin: 50px 0;
+  
+  
+}
+.righ-meniHeader h5{
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.righ-meniHeader p{
+  line-height: 300%;
+}
+.fored-part {margin: 0;}
